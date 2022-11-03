@@ -3,69 +3,33 @@
    'E:\\Personal\\Youtube '
    'downloader\\env\\lib\\site-packages\\pkg_resources\\__init__.py',
    'PYMODULE'),
-  ('pkg_resources._vendor',
+  ('pkg_resources._vendor.zipp',
    'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\pkg_resources\\_vendor\\__init__.py',
-   'PYMODULE'),
-  ('pkg_resources._vendor.pyparsing.unicode',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\unicode.py',
-   'PYMODULE'),
-  ('typing',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\typing.py',
+   'downloader\\env\\lib\\site-packages\\pkg_resources\\_vendor\\zipp.py',
    'PYMODULE'),
   ('contextlib',
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\contextlib.py',
    'PYMODULE'),
-  ('pkg_resources._vendor.pyparsing.exceptions',
+  ('pkg_resources._vendor.pyparsing.util',
    'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\exceptions.py',
+   'downloader\\env\\lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\util.py',
+   'PYMODULE'),
+  ('typing',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\typing.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.pyparsing.unicode',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\unicode.py',
    'PYMODULE'),
   ('pkg_resources._vendor.pyparsing.testing',
    'E:\\Personal\\Youtube '
    'downloader\\env\\lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\testing.py',
    'PYMODULE'),
-  ('pkg_resources._vendor.importlib_resources._adapters',
+  ('pkg_resources._vendor.pyparsing.results',
    'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\_adapters.py',
-   'PYMODULE'),
-  ('pkg_resources._vendor.packaging',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__init__.py',
-   'PYMODULE'),
-  ('pkg_resources._vendor.importlib_resources._common',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\_common.py',
-   'PYMODULE'),
-  ('pathlib',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\pathlib.py',
-   'PYMODULE'),
-  ('urllib.parse',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\urllib\\parse.py',
-   'PYMODULE'),
-  ('urllib',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\urllib\\__init__.py',
-   'PYMODULE'),
-  ('fnmatch',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\fnmatch.py',
-   'PYMODULE'),
-  ('pkg_resources._vendor.packaging.tags',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\tags.py',
-   'PYMODULE'),
-  ('logging',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\logging\\__init__.py',
-   'PYMODULE'),
-  ('pickle',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\pickle.py',
+   'downloader\\env\\lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\results.py',
    'PYMODULE'),
   ('pprint',
    'C:\\Program '
@@ -79,205 +43,49 @@
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\copy.py',
    'PYMODULE'),
-  ('argparse',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\argparse.py',
+  ('pkg_resources._vendor.pyparsing.helpers',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\helpers.py',
    'PYMODULE'),
-  ('gettext',
+  ('html.entities',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\gettext.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\html\\entities.py',
    'PYMODULE'),
-  ('doctest',
+  ('html',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\doctest.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\html\\__init__.py',
    'PYMODULE'),
-  ('unittest',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\unittest\\__init__.py',
+  ('pkg_resources._vendor.pyparsing.exceptions',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\exceptions.py',
    'PYMODULE'),
-  ('unittest.async_case',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\unittest\\async_case.py',
+  ('pkg_resources._vendor.pyparsing.core',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\core.py',
    'PYMODULE'),
-  ('asyncio',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\__init__.py',
+  ('pkg_resources._vendor.pyparsing.diagram',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\diagram\\__init__.py',
    'PYMODULE'),
-  ('asyncio.unix_events',
+  ('pdb',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\unix_events.py',
-   'PYMODULE'),
-  ('asyncio.log',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\log.py',
-   'PYMODULE'),
-  ('subprocess',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\subprocess.py',
-   'PYMODULE'),
-  ('socket',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\socket.py',
-   'PYMODULE'),
-  ('signal',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\signal.py',
-   'PYMODULE'),
-  ('selectors',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\selectors.py',
-   'PYMODULE'),
-  ('asyncio.windows_events',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\windows_events.py',
-   'PYMODULE'),
-  ('asyncio.windows_utils',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\windows_utils.py',
-   'PYMODULE'),
-  ('asyncio.selector_events',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\selector_events.py',
-   'PYMODULE'),
-  ('ssl',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\ssl.py',
-   'PYMODULE'),
-  ('calendar',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\calendar.py',
-   'PYMODULE'),
-  ('datetime',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\datetime.py',
-   'PYMODULE'),
-  ('_strptime',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\_strptime.py',
-   'PYMODULE'),
-  ('base64',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\base64.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\pdb.py',
    'PYMODULE'),
   ('getopt',
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\getopt.py',
    'PYMODULE'),
-  ('asyncio.proactor_events',
+  ('gettext',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\proactor_events.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\gettext.py',
    'PYMODULE'),
-  ('asyncio.base_subprocess',
+  ('struct',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\base_subprocess.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\struct.py',
    'PYMODULE'),
-  ('asyncio.threads',
+  ('pydoc',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\threads.py',
-   'PYMODULE'),
-  ('contextvars',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\contextvars.py',
-   'PYMODULE'),
-  ('asyncio.subprocess',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\subprocess.py',
-   'PYMODULE'),
-  ('asyncio.streams',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\streams.py',
-   'PYMODULE'),
-  ('asyncio.queues',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\queues.py',
-   'PYMODULE'),
-  ('asyncio.runners',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\runners.py',
-   'PYMODULE'),
-  ('asyncio.base_events',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\base_events.py',
-   'PYMODULE'),
-  ('concurrent.futures',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\concurrent\\futures\\__init__.py',
-   'PYMODULE'),
-  ('concurrent.futures.thread',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\concurrent\\futures\\thread.py',
-   'PYMODULE'),
-  ('queue',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\queue.py',
-   'PYMODULE'),
-  ('concurrent.futures.process',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\concurrent\\futures\\process.py',
-   'PYMODULE'),
-  ('multiprocessing.synchronize',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\synchronize.py',
-   'PYMODULE'),
-  ('multiprocessing.heap',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\heap.py',
-   'PYMODULE'),
-  ('bisect',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\bisect.py',
-   'PYMODULE'),
-  ('multiprocessing.resource_tracker',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\resource_tracker.py',
-   'PYMODULE'),
-  ('multiprocessing.spawn',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\spawn.py',
-   'PYMODULE'),
-  ('runpy',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\runpy.py',
-   'PYMODULE'),
-  ('importlib.util',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\importlib\\util.py',
-   'PYMODULE'),
-  ('importlib._bootstrap_external',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\importlib\\_bootstrap_external.py',
-   'PYMODULE'),
-  ('importlib.metadata',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\importlib\\metadata\\__init__.py',
-   'PYMODULE'),
-  ('importlib.abc',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\importlib\\abc.py',
-   'PYMODULE'),
-  ('importlib.metadata._itertools',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\importlib\\metadata\\_itertools.py',
-   'PYMODULE'),
-  ('importlib.metadata._functools',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\importlib\\metadata\\_functools.py',
-   'PYMODULE'),
-  ('importlib.metadata._collections',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\importlib\\metadata\\_collections.py',
-   'PYMODULE'),
-  ('importlib.metadata._meta',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\importlib\\metadata\\_meta.py',
-   'PYMODULE'),
-  ('importlib.metadata._adapters',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\importlib\\metadata\\_adapters.py',
-   'PYMODULE'),
-  ('importlib.metadata._text',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\importlib\\metadata\\_text.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\pydoc.py',
    'PYMODULE'),
   ('email.message',
    'C:\\Program '
@@ -327,6 +135,10 @@
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\_pydecimal.py',
    'PYMODULE'),
+  ('contextvars',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\contextvars.py',
+   'PYMODULE'),
   ('fractions',
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\fractions.py',
@@ -339,9 +151,29 @@
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\hashlib.py',
    'PYMODULE'),
+  ('logging',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\logging\\__init__.py',
+   'PYMODULE'),
+  ('pickle',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\pickle.py',
+   'PYMODULE'),
+  ('_compat_pickle',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\_compat_pickle.py',
+   'PYMODULE'),
+  ('bisect',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\bisect.py',
+   'PYMODULE'),
   ('email._encoded_words',
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\email\\_encoded_words.py',
+   'PYMODULE'),
+  ('base64',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\base64.py',
    'PYMODULE'),
   ('email.charset',
    'C:\\Program '
@@ -375,6 +207,34 @@
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\email\\_parseaddr.py',
    'PYMODULE'),
+  ('calendar',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\calendar.py',
+   'PYMODULE'),
+  ('argparse',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\argparse.py',
+   'PYMODULE'),
+  ('datetime',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\datetime.py',
+   'PYMODULE'),
+  ('_strptime',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\_strptime.py',
+   'PYMODULE'),
+  ('socket',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\socket.py',
+   'PYMODULE'),
+  ('selectors',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\selectors.py',
+   'PYMODULE'),
+  ('email',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\email\\__init__.py',
+   'PYMODULE'),
   ('quopri',
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\quopri.py',
@@ -387,361 +247,29 @@
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\optparse.py',
    'PYMODULE'),
-  ('email',
+  ('http.server',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\email\\__init__.py',
-   'PYMODULE'),
-  ('csv',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\csv.py',
-   'PYMODULE'),
-  ('importlib.readers',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\importlib\\readers.py',
-   'PYMODULE'),
-  ('tokenize',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\tokenize.py',
-   'PYMODULE'),
-  ('token',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\token.py',
-   'PYMODULE'),
-  ('importlib._bootstrap',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\importlib\\_bootstrap.py',
-   'PYMODULE'),
-  ('importlib._abc',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\importlib\\_abc.py',
-   'PYMODULE'),
-  ('multiprocessing.util',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\util.py',
-   'PYMODULE'),
-  ('multiprocessing.forkserver',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\forkserver.py',
-   'PYMODULE'),
-  ('multiprocessing.process',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\process.py',
-   'PYMODULE'),
-  ('multiprocessing.context',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\context.py',
-   'PYMODULE'),
-  ('multiprocessing.popen_spawn_win32',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\popen_spawn_win32.py',
-   'PYMODULE'),
-  ('multiprocessing.popen_forkserver',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\popen_forkserver.py',
-   'PYMODULE'),
-  ('multiprocessing.popen_spawn_posix',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\popen_spawn_posix.py',
-   'PYMODULE'),
-  ('multiprocessing.popen_fork',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\popen_fork.py',
-   'PYMODULE'),
-  ('multiprocessing.sharedctypes',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\sharedctypes.py',
-   'PYMODULE'),
-  ('ctypes',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\ctypes\\__init__.py',
-   'PYMODULE'),
-  ('ctypes.wintypes',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\ctypes\\wintypes.py',
-   'PYMODULE'),
-  ('ctypes._endian',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\ctypes\\_endian.py',
-   'PYMODULE'),
-  ('multiprocessing.pool',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\pool.py',
-   'PYMODULE'),
-  ('multiprocessing.dummy',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\dummy\\__init__.py',
-   'PYMODULE'),
-  ('multiprocessing.dummy.connection',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\dummy\\connection.py',
-   'PYMODULE'),
-  ('multiprocessing.managers',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\managers.py',
-   'PYMODULE'),
-  ('multiprocessing.shared_memory',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\shared_memory.py',
-   'PYMODULE'),
-  ('secrets',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\secrets.py',
-   'PYMODULE'),
-  ('hmac',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\hmac.py',
-   'PYMODULE'),
-  ('multiprocessing.reduction',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\reduction.py',
-   'PYMODULE'),
-  ('multiprocessing.resource_sharer',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\resource_sharer.py',
-   'PYMODULE'),
-  ('multiprocessing.queues',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\queues.py',
-   'PYMODULE'),
-  ('multiprocessing.connection',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\connection.py',
-   'PYMODULE'),
-  ('xmlrpc.client',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\xmlrpc\\client.py',
-   'PYMODULE'),
-  ('xmlrpc',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\xmlrpc\\__init__.py',
-   'PYMODULE'),
-  ('gzip',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\gzip.py',
-   'PYMODULE'),
-  ('_compression',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\_compression.py',
-   'PYMODULE'),
-  ('xml.parsers.expat',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\xml\\parsers\\expat.py',
-   'PYMODULE'),
-  ('xml.parsers',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\xml\\parsers\\__init__.py',
-   'PYMODULE'),
-  ('xml',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\xml\\__init__.py',
-   'PYMODULE'),
-  ('xml.sax.expatreader',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\xml\\sax\\expatreader.py',
-   'PYMODULE'),
-  ('xml.sax.saxutils',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\xml\\sax\\saxutils.py',
-   'PYMODULE'),
-  ('urllib.request',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\urllib\\request.py',
-   'PYMODULE'),
-  ('getpass',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\getpass.py',
-   'PYMODULE'),
-  ('nturl2path',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\nturl2path.py',
-   'PYMODULE'),
-  ('ftplib',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\ftplib.py',
-   'PYMODULE'),
-  ('netrc',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\netrc.py',
-   'PYMODULE'),
-  ('shlex',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\shlex.py',
-   'PYMODULE'),
-  ('mimetypes',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\mimetypes.py',
-   'PYMODULE'),
-  ('http.cookiejar',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\http\\cookiejar.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\http\\server.py',
    'PYMODULE'),
   ('http',
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\http\\__init__.py',
    'PYMODULE'),
-  ('urllib.response',
+  ('socketserver',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\urllib\\response.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\socketserver.py',
    'PYMODULE'),
-  ('urllib.error',
+  ('mimetypes',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\urllib\\error.py',
-   'PYMODULE'),
-  ('xml.sax',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\xml\\sax\\__init__.py',
-   'PYMODULE'),
-  ('xml.sax.handler',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\xml\\sax\\handler.py',
-   'PYMODULE'),
-  ('xml.sax._exceptions',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\xml\\sax\\_exceptions.py',
-   'PYMODULE'),
-  ('xml.sax.xmlreader',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\xml\\sax\\xmlreader.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\mimetypes.py',
    'PYMODULE'),
   ('http.client',
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\http\\client.py',
    'PYMODULE'),
-  ('multiprocessing',
+  ('ssl',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\__init__.py',
-   'PYMODULE'),
-  ('concurrent.futures._base',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\concurrent\\futures\\_base.py',
-   'PYMODULE'),
-  ('concurrent',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\concurrent\\__init__.py',
-   'PYMODULE'),
-  ('asyncio.trsock',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\trsock.py',
-   'PYMODULE'),
-  ('asyncio.staggered',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\staggered.py',
-   'PYMODULE'),
-  ('asyncio.tasks',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\tasks.py',
-   'PYMODULE'),
-  ('asyncio.locks',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\locks.py',
-   'PYMODULE'),
-  ('asyncio.base_tasks',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\base_tasks.py',
-   'PYMODULE'),
-  ('asyncio.mixins',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\mixins.py',
-   'PYMODULE'),
-  ('asyncio.sslproto',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\sslproto.py',
-   'PYMODULE'),
-  ('asyncio.transports',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\transports.py',
-   'PYMODULE'),
-  ('asyncio.protocols',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\protocols.py',
-   'PYMODULE'),
-  ('asyncio.futures',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\futures.py',
-   'PYMODULE'),
-  ('asyncio.exceptions',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\exceptions.py',
-   'PYMODULE'),
-  ('asyncio.events',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\events.py',
-   'PYMODULE'),
-  ('asyncio.coroutines',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\coroutines.py',
-   'PYMODULE'),
-  ('asyncio.base_futures',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\base_futures.py',
-   'PYMODULE'),
-  ('asyncio.format_helpers',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\format_helpers.py',
-   'PYMODULE'),
-  ('asyncio.constants',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\constants.py',
-   'PYMODULE'),
-  ('unittest.signals',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\unittest\\signals.py',
-   'PYMODULE'),
-  ('unittest.main',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\unittest\\main.py',
-   'PYMODULE'),
-  ('unittest.runner',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\unittest\\runner.py',
-   'PYMODULE'),
-  ('unittest.loader',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\unittest\\loader.py',
-   'PYMODULE'),
-  ('unittest.suite',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\unittest\\suite.py',
-   'PYMODULE'),
-  ('unittest.case',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\unittest\\case.py',
-   'PYMODULE'),
-  ('unittest._log',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\unittest\\_log.py',
-   'PYMODULE'),
-  ('unittest.result',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\unittest\\result.py',
-   'PYMODULE'),
-  ('unittest.util',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\unittest\\util.py',
-   'PYMODULE'),
-  ('pdb',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\pdb.py',
-   'PYMODULE'),
-  ('pydoc',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\pydoc.py',
-   'PYMODULE'),
-  ('http.server',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\http\\server.py',
-   'PYMODULE'),
-  ('socketserver',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\socketserver.py',
-   'PYMODULE'),
-  ('html',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\html\\__init__.py',
-   'PYMODULE'),
-  ('html.entities',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\html\\entities.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\ssl.py',
    'PYMODULE'),
   ('pydoc_data.topics',
    'C:\\Program '
@@ -755,6 +283,78 @@
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\tty.py',
    'PYMODULE'),
+  ('subprocess',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\subprocess.py',
+   'PYMODULE'),
+  ('importlib.util',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\importlib\\util.py',
+   'PYMODULE'),
+  ('importlib._abc',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\importlib\\_abc.py',
+   'PYMODULE'),
+  ('importlib._bootstrap_external',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\importlib\\_bootstrap_external.py',
+   'PYMODULE'),
+  ('importlib.metadata',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\importlib\\metadata\\__init__.py',
+   'PYMODULE'),
+  ('importlib.abc',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\importlib\\abc.py',
+   'PYMODULE'),
+  ('importlib.metadata._itertools',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\importlib\\metadata\\_itertools.py',
+   'PYMODULE'),
+  ('importlib.metadata._functools',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\importlib\\metadata\\_functools.py',
+   'PYMODULE'),
+  ('importlib.metadata._collections',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\importlib\\metadata\\_collections.py',
+   'PYMODULE'),
+  ('importlib.metadata._meta',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\importlib\\metadata\\_meta.py',
+   'PYMODULE'),
+  ('importlib.metadata._adapters',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\importlib\\metadata\\_adapters.py',
+   'PYMODULE'),
+  ('importlib.metadata._text',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\importlib\\metadata\\_text.py',
+   'PYMODULE'),
+  ('csv',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\csv.py',
+   'PYMODULE'),
+  ('importlib.readers',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\importlib\\readers.py',
+   'PYMODULE'),
+  ('importlib._bootstrap',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\importlib\\_bootstrap.py',
+   'PYMODULE'),
+  ('runpy',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\runpy.py',
+   'PYMODULE'),
+  ('shlex',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\shlex.py',
+   'PYMODULE'),
+  ('signal',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\signal.py',
+   'PYMODULE'),
   ('glob',
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\glob.py',
@@ -766,6 +366,10 @@
   ('codeop',
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\codeop.py',
+   'PYMODULE'),
+  ('__future__',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\__future__.py',
    'PYMODULE'),
   ('dis',
    'C:\\Program '
@@ -783,22 +387,6 @@
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\cmd.py',
    'PYMODULE'),
-  ('difflib',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\difflib.py',
-   'PYMODULE'),
-  ('__future__',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\__future__.py',
-   'PYMODULE'),
-  ('_compat_pickle',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\_compat_pickle.py',
-   'PYMODULE'),
-  ('struct',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\struct.py',
-   'PYMODULE'),
   ('threading',
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\threading.py',
@@ -811,93 +399,9 @@
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\string.py',
    'PYMODULE'),
-  ('pkg_resources._vendor.packaging._musllinux',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_musllinux.py',
-   'PYMODULE'),
-  ('pkg_resources._vendor.packaging.requirements',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\requirements.py',
-   'PYMODULE'),
-  ('pkg_resources._vendor.jaraco.functools',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\pkg_resources\\_vendor\\jaraco\\functools.py',
-   'PYMODULE'),
-  ('pkg_resources._vendor.more_itertools.recipes',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\pkg_resources\\_vendor\\more_itertools\\recipes.py',
-   'PYMODULE'),
-  ('pkg_resources._vendor.importlib_resources._itertools',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\_itertools.py',
-   'PYMODULE'),
-  ('pkg_resources._vendor.pyparsing.core',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\core.py',
-   'PYMODULE'),
-  ('pkg_resources._vendor.more_itertools',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\pkg_resources\\_vendor\\more_itertools\\__init__.py',
-   'PYMODULE'),
-  ('pkg_resources._vendor.importlib_resources',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\__init__.py',
-   'PYMODULE'),
-  ('pkg_resources._vendor.more_itertools.more',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\pkg_resources\\_vendor\\more_itertools\\more.py',
-   'PYMODULE'),
-  ('pkg_resources._vendor.pyparsing.diagram',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\diagram\\__init__.py',
-   'PYMODULE'),
-  ('pkg_resources._vendor.packaging.utils',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\utils.py',
-   'PYMODULE'),
-  ('pkg_resources._vendor.packaging._manylinux',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_manylinux.py',
-   'PYMODULE'),
-  ('pkg_resources._vendor.importlib_resources._compat',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\_compat.py',
-   'PYMODULE'),
-  ('pkg_resources._vendor.jaraco.context',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\pkg_resources\\_vendor\\jaraco\\context.py',
-   'PYMODULE'),
-  ('pkg_resources._vendor.pyparsing.util',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\util.py',
-   'PYMODULE'),
-  ('pkg_resources._vendor.zipp',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\pkg_resources\\_vendor\\zipp.py',
-   'PYMODULE'),
-  ('pkg_resources._vendor.pyparsing.helpers',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\helpers.py',
-   'PYMODULE'),
-  ('pkg_resources._vendor.pyparsing.results',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\results.py',
-   'PYMODULE'),
-  ('pkg_resources._vendor.appdirs',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\pkg_resources\\_vendor\\appdirs.py',
-   'PYMODULE'),
-  ('pkg_resources._vendor.importlib_resources.readers',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\readers.py',
-   'PYMODULE'),
   ('pkg_resources._vendor.pyparsing.common',
    'E:\\Personal\\Youtube '
    'downloader\\env\\lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\common.py',
-   'PYMODULE'),
-  ('pkg_resources._vendor.packaging._structures',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_structures.py',
    'PYMODULE'),
   ('pkg_resources._vendor.pyparsing.actions',
    'E:\\Personal\\Youtube '
@@ -907,25 +411,101 @@
    'E:\\Personal\\Youtube '
    'downloader\\env\\lib\\site-packages\\pkg_resources\\_vendor\\pyparsing\\__init__.py',
    'PYMODULE'),
-  ('pkg_resources._vendor.jaraco.text',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\pkg_resources\\_vendor\\jaraco\\text\\__init__.py',
-   'PYMODULE'),
   ('pkg_resources._vendor.packaging.version',
    'E:\\Personal\\Youtube '
    'downloader\\env\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\version.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.utils',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\utils.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.tags',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\tags.py',
    'PYMODULE'),
   ('pkg_resources._vendor.packaging.specifiers',
    'E:\\Personal\\Youtube '
    'downloader\\env\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\specifiers.py',
    'PYMODULE'),
+  ('pkg_resources._vendor.packaging.requirements',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\requirements.py',
+   'PYMODULE'),
   ('pkg_resources._vendor.packaging.markers',
    'E:\\Personal\\Youtube '
    'downloader\\env\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\markers.py',
    'PYMODULE'),
+  ('pkg_resources._vendor.packaging._structures',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._musllinux',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_musllinux.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._manylinux',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_manylinux.py',
+   'PYMODULE'),
+  ('ctypes',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\ctypes\\__init__.py',
+   'PYMODULE'),
+  ('ctypes.wintypes',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\ctypes\\wintypes.py',
+   'PYMODULE'),
+  ('ctypes._endian',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\ctypes\\_endian.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.__about__',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__about__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.more_itertools.recipes',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\pkg_resources\\_vendor\\more_itertools\\recipes.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.more_itertools.more',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\pkg_resources\\_vendor\\more_itertools\\more.py',
+   'PYMODULE'),
+  ('queue',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\queue.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.more_itertools',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\pkg_resources\\_vendor\\more_itertools\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.jaraco.text',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\pkg_resources\\_vendor\\jaraco\\text\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.jaraco.functools',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\pkg_resources\\_vendor\\jaraco\\functools.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.jaraco.context',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\pkg_resources\\_vendor\\jaraco\\context.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.jaraco',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\pkg_resources\\_vendor\\jaraco\\__init__.py',
+   'PYMODULE'),
   ('pkg_resources._vendor.importlib_resources.simple',
    'E:\\Personal\\Youtube '
    'downloader\\env\\lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\simple.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources.readers',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\readers.py',
    'PYMODULE'),
   ('pkg_resources._vendor.importlib_resources.abc',
    'E:\\Personal\\Youtube '
@@ -935,13 +515,33 @@
    'E:\\Personal\\Youtube '
    'downloader\\env\\lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\_legacy.py',
    'PYMODULE'),
-  ('pkg_resources._vendor.packaging.__about__',
+  ('pkg_resources._vendor.importlib_resources._itertools',
    'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__about__.py',
+   'downloader\\env\\lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\_itertools.py',
    'PYMODULE'),
-  ('pkg_resources._vendor.jaraco',
+  ('pkg_resources._vendor.importlib_resources._compat',
    'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\pkg_resources\\_vendor\\jaraco\\__init__.py',
+   'downloader\\env\\lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\_compat.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources._common',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\_common.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources._adapters',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\_adapters.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.importlib_resources',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\pkg_resources\\_vendor\\importlib_resources\\__init__.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.appdirs',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\pkg_resources\\_vendor\\appdirs.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\pkg_resources\\_vendor\\__init__.py',
    'PYMODULE'),
   ('sysconfig',
    'C:\\Program '
@@ -954,10 +554,6 @@
   ('_bootsubprocess',
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\_bootsubprocess.py',
-   'PYMODULE'),
-  ('_osx_support',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\_osx_support.py',
    'PYMODULE'),
   ('pkg_resources.extern',
    'E:\\Personal\\Youtube '
@@ -982,18 +578,6 @@
   ('importlib._adapters',
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\importlib\\_adapters.py',
-   'PYMODULE'),
-  ('posixpath',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\posixpath.py',
-   'PYMODULE'),
-  ('genericpath',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\genericpath.py',
-   'PYMODULE'),
-  ('ntpath',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\ntpath.py',
    'PYMODULE'),
   ('inspect',
    'C:\\Program '
@@ -1023,6 +607,42 @@
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\plistlib.py',
    'PYMODULE'),
+  ('xml.parsers.expat',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\xml\\parsers\\expat.py',
+   'PYMODULE'),
+  ('xml.parsers',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\xml\\parsers\\__init__.py',
+   'PYMODULE'),
+  ('xml',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\xml\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.expatreader',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\xml\\sax\\expatreader.py',
+   'PYMODULE'),
+  ('xml.sax.saxutils',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\xml\\sax\\saxutils.py',
+   'PYMODULE'),
+  ('xml.sax',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\xml\\sax\\__init__.py',
+   'PYMODULE'),
+  ('xml.sax.handler',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\xml\\sax\\handler.py',
+   'PYMODULE'),
+  ('xml.sax._exceptions',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\xml\\sax\\_exceptions.py',
+   'PYMODULE'),
+  ('xml.sax.xmlreader',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\xml\\sax\\xmlreader.py',
+   'PYMODULE'),
   ('platform',
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\platform.py',
@@ -1030,10 +650,6 @@
   ('pkgutil',
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\pkgutil.py',
-   'PYMODULE'),
-  ('stat',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\stat.py',
    'PYMODULE'),
   ('zipimport',
    'C:\\Program '
@@ -1051,29 +667,161 @@
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\lzma.py',
    'PYMODULE'),
+  ('_compression',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\_compression.py',
+   'PYMODULE'),
   ('bz2',
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\bz2.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_posix',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\popen_spawn_posix.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_tracker',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\resource_tracker.py',
+   'PYMODULE'),
+  ('multiprocessing.util',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\util.py',
+   'PYMODULE'),
+  ('multiprocessing.forkserver',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.connection',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.resource_sharer',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\resource_sharer.py',
+   'PYMODULE'),
+  ('xmlrpc.client',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\xmlrpc\\client.py',
+   'PYMODULE'),
+  ('xmlrpc',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\xmlrpc\\__init__.py',
+   'PYMODULE'),
+  ('gzip',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\gzip.py',
+   'PYMODULE'),
+  ('hmac',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\hmac.py',
+   'PYMODULE'),
+  ('multiprocessing.process',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\process.py',
+   'PYMODULE'),
+  ('multiprocessing.context',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\context.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_forkserver',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\popen_forkserver.py',
+   'PYMODULE'),
+  ('multiprocessing.sharedctypes',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\sharedctypes.py',
+   'PYMODULE'),
+  ('multiprocessing.heap',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\heap.py',
+   'PYMODULE'),
+  ('multiprocessing.pool',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\pool.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\dummy\\__init__.py',
+   'PYMODULE'),
+  ('multiprocessing.dummy.connection',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\dummy\\connection.py',
+   'PYMODULE'),
+  ('multiprocessing.queues',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\queues.py',
+   'PYMODULE'),
+  ('multiprocessing.synchronize',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\synchronize.py',
+   'PYMODULE'),
+  ('multiprocessing.managers',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\managers.py',
+   'PYMODULE'),
+  ('multiprocessing.shared_memory',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\shared_memory.py',
+   'PYMODULE'),
+  ('secrets',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\secrets.py',
+   'PYMODULE'),
+  ('multiprocessing.reduction',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\reduction.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_fork',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\popen_fork.py',
+   'PYMODULE'),
+  ('multiprocessing.popen_spawn_win32',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\popen_spawn_win32.py',
+   'PYMODULE'),
+  ('multiprocessing.spawn',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\spawn.py',
+   'PYMODULE'),
+  ('multiprocessing',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\__init__.py',
    'PYMODULE'),
   ('tracemalloc',
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\tracemalloc.py',
    'PYMODULE'),
-  ('_py_abc',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\_py_abc.py',
-   'PYMODULE'),
   ('stringprep',
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\stringprep.py',
    'PYMODULE'),
+  ('_py_abc',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\_py_abc.py',
+   'PYMODULE'),
+  ('getpass',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\getpass.py',
+   'PYMODULE'),
+  ('nturl2path',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\nturl2path.py',
+   'PYMODULE'),
+  ('ftplib',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\ftplib.py',
+   'PYMODULE'),
+  ('netrc',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\netrc.py',
+   'PYMODULE'),
+  ('http.cookiejar',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\http\\cookiejar.py',
+   'PYMODULE'),
   ('webbrowser',
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\webbrowser.py',
-   'PYMODULE'),
-  ('os',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\os.py',
    'PYMODULE'),
   ('pytube',
    'E:\\Personal\\Youtube '
@@ -1195,6 +943,10 @@
    'E:\\Personal\\Youtube '
    'downloader\\env\\lib\\site-packages\\numpy\\__init__.py',
    'PYMODULE'),
+  ('numpy.core._dtype_ctypes',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\numpy\\core\\_dtype_ctypes.py',
+   'PYMODULE'),
   ('numpy.version',
    'E:\\Personal\\Youtube '
    'downloader\\env\\lib\\site-packages\\numpy\\version.py',
@@ -1207,898 +959,6 @@
    'E:\\Personal\\Youtube '
    'downloader\\env\\lib\\site-packages\\numpy\\_pytesttester.py',
    'PYMODULE'),
-  ('numpy.distutils.cpuinfo',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\numpy\\distutils\\cpuinfo.py',
-   'PYMODULE'),
-  ('numpy.distutils',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\numpy\\distutils\\__init__.py',
-   'PYMODULE'),
-  ('numpy.distutils.fcompiler',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\numpy\\distutils\\fcompiler\\__init__.py',
-   'PYMODULE'),
-  ('numpy.distutils.command.config_compiler',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\numpy\\distutils\\command\\config_compiler.py',
-   'PYMODULE'),
-  ('numpy.distutils.command',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\numpy\\distutils\\command\\__init__.py',
-   'PYMODULE'),
-  ('numpy.distutils.command.egg_info',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\numpy\\distutils\\command\\egg_info.py',
-   'PYMODULE'),
-  ('setuptools.command.egg_info',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\setuptools\\command\\egg_info.py',
-   'PYMODULE'),
-  ('setuptools.extern',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\setuptools\\extern\\__init__.py',
-   'PYMODULE'),
-  ('setuptools.glob',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\setuptools\\glob.py',
-   'PYMODULE'),
-  ('setuptools.unicode_utils',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\setuptools\\unicode_utils.py',
-   'PYMODULE'),
-  ('setuptools.command.bdist_egg',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\setuptools\\command\\bdist_egg.py',
-   'PYMODULE'),
-  ('setuptools._path',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\setuptools\\_path.py',
-   'PYMODULE'),
-  ('setuptools.extension',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\setuptools\\extension.py',
-   'PYMODULE'),
-  ('setuptools.monkey',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\setuptools\\monkey.py',
-   'PYMODULE'),
-  ('distutils.extension',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\distutils\\extension.py',
-   'PYMODULE'),
-  ('distutils.text_file',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\distutils\\text_file.py',
-   'PYMODULE'),
-  ('distutils.dir_util',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\distutils\\dir_util.py',
-   'PYMODULE'),
-  ('distutils.file_util',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\distutils\\file_util.py',
-   'PYMODULE'),
-  ('distutils.dep_util',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\distutils\\dep_util.py',
-   'PYMODULE'),
-  ('setuptools.command',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\setuptools\\command\\__init__.py',
-   'PYMODULE'),
-  ('setuptools.command.easy_install',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\setuptools\\command\\easy_install.py',
-   'PYMODULE'),
-  ('setuptools.wheel',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\setuptools\\wheel.py',
-   'PYMODULE'),
-  ('setuptools.package_index',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\setuptools\\package_index.py',
-   'PYMODULE'),
-  ('setuptools.archive_util',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\setuptools\\archive_util.py',
-   'PYMODULE'),
-  ('tarfile',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\tarfile.py',
-   'PYMODULE'),
-  ('setuptools.sandbox',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\setuptools\\sandbox.py',
-   'PYMODULE'),
-  ('configparser',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\configparser.py',
-   'PYMODULE'),
-  ('site',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\PyInstaller\\fake-modules\\site.py',
-   'PYMODULE'),
-  ('distutils.command.install',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\distutils\\command\\install.py',
-   'PYMODULE'),
-  ('distutils.debug',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\distutils\\debug.py',
-   'PYMODULE'),
-  ('distutils.command',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\distutils\\command\\__init__.py',
-   'PYMODULE'),
-  ('distutils.spawn',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\distutils\\spawn.py',
-   'PYMODULE'),
-  ('distutils.command.build_scripts',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\distutils\\command\\build_scripts.py',
-   'PYMODULE'),
-  ('distutils.command.bdist',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\distutils\\command\\bdist.py',
-   'PYMODULE'),
-  ('setuptools.command.setopt',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\setuptools\\command\\setopt.py',
-   'PYMODULE'),
-  ('setuptools.command.sdist',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\setuptools\\command\\sdist.py',
-   'PYMODULE'),
-  ('setuptools.command.py36compat',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\setuptools\\command\\py36compat.py',
-   'PYMODULE'),
-  ('distutils.command.sdist',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\distutils\\command\\sdist.py',
-   'PYMODULE'),
-  ('distutils.archive_util',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\distutils\\archive_util.py',
-   'PYMODULE'),
-  ('setuptools._entry_points',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\setuptools\\_entry_points.py',
-   'PYMODULE'),
-  ('setuptools._itertools',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\setuptools\\_itertools.py',
-   'PYMODULE'),
-  ('setuptools',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\setuptools\\__init__.py',
-   'PYMODULE'),
-  ('setuptools._vendor.jaraco.context',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\setuptools\\_vendor\\jaraco\\context.py',
-   'PYMODULE'),
-  ('setuptools._vendor.importlib_resources.abc',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\setuptools\\_vendor\\importlib_resources\\abc.py',
-   'PYMODULE'),
-  ('setuptools._vendor.pyparsing.unicode',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\setuptools\\_vendor\\pyparsing\\unicode.py',
-   'PYMODULE'),
-  ('setuptools._vendor.zipp',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\setuptools\\_vendor\\zipp.py',
-   'PYMODULE'),
-  ('setuptools._vendor.importlib_resources',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\setuptools\\_vendor\\importlib_resources\\__init__.py',
-   'PYMODULE'),
-  ('setuptools._vendor.packaging._manylinux',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\setuptools\\_vendor\\packaging\\_manylinux.py',
-   'PYMODULE'),
-  ('setuptools._vendor.importlib_resources._adapters',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\setuptools\\_vendor\\importlib_resources\\_adapters.py',
-   'PYMODULE'),
-  ('setuptools._vendor.packaging.requirements',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\setuptools\\_vendor\\packaging\\requirements.py',
-   'PYMODULE'),
-  ('setuptools._vendor.packaging.tags',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\setuptools\\_vendor\\packaging\\tags.py',
-   'PYMODULE'),
-  ('setuptools._vendor.tomli',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\setuptools\\_vendor\\tomli\\__init__.py',
-   'PYMODULE'),
-  ('setuptools._vendor.pyparsing.util',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\setuptools\\_vendor\\pyparsing\\util.py',
-   'PYMODULE'),
-  ('setuptools._vendor.importlib_resources.simple',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\setuptools\\_vendor\\importlib_resources\\simple.py',
-   'PYMODULE'),
-  ('setuptools._vendor.importlib_metadata._functools',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_functools.py',
-   'PYMODULE'),
-  ('setuptools._vendor.packaging.version',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\setuptools\\_vendor\\packaging\\version.py',
-   'PYMODULE'),
-  ('setuptools._vendor.importlib_metadata._collections',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_collections.py',
-   'PYMODULE'),
-  ('setuptools._vendor.importlib_resources._common',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\setuptools\\_vendor\\importlib_resources\\_common.py',
-   'PYMODULE'),
-  ('setuptools._vendor.packaging._musllinux',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\setuptools\\_vendor\\packaging\\_musllinux.py',
-   'PYMODULE'),
-  ('setuptools._vendor.tomli._types',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\setuptools\\_vendor\\tomli\\_types.py',
-   'PYMODULE'),
-  ('setuptools._vendor.more_itertools.more',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\setuptools\\_vendor\\more_itertools\\more.py',
-   'PYMODULE'),
-  ('setuptools._vendor.pyparsing',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\setuptools\\_vendor\\pyparsing\\__init__.py',
-   'PYMODULE'),
-  ('setuptools._vendor.importlib_metadata._text',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_text.py',
-   'PYMODULE'),
-  ('setuptools._vendor.pyparsing.actions',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\setuptools\\_vendor\\pyparsing\\actions.py',
-   'PYMODULE'),
-  ('setuptools._vendor.jaraco.functools',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\setuptools\\_vendor\\jaraco\\functools.py',
-   'PYMODULE'),
-  ('setuptools._vendor.pyparsing.diagram',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\setuptools\\_vendor\\pyparsing\\diagram\\__init__.py',
-   'PYMODULE'),
-  ('setuptools._vendor.jaraco',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\setuptools\\_vendor\\jaraco\\__init__.py',
-   'PYMODULE'),
-  ('setuptools._vendor.typing_extensions',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\setuptools\\_vendor\\typing_extensions.py',
-   'PYMODULE'),
-  ('setuptools._vendor.tomli._parser',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\setuptools\\_vendor\\tomli\\_parser.py',
-   'PYMODULE'),
-  ('setuptools._vendor.importlib_metadata._adapters',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_adapters.py',
-   'PYMODULE'),
-  ('setuptools._vendor.packaging.markers',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\setuptools\\_vendor\\packaging\\markers.py',
-   'PYMODULE'),
-  ('setuptools._vendor',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\setuptools\\_vendor\\__init__.py',
-   'PYMODULE'),
-  ('setuptools._vendor.importlib_resources._legacy',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\setuptools\\_vendor\\importlib_resources\\_legacy.py',
-   'PYMODULE'),
-  ('setuptools._vendor.pyparsing.exceptions',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\setuptools\\_vendor\\pyparsing\\exceptions.py',
-   'PYMODULE'),
-  ('setuptools._vendor.importlib_metadata',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\__init__.py',
-   'PYMODULE'),
-  ('setuptools._vendor.tomli._re',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\setuptools\\_vendor\\tomli\\_re.py',
-   'PYMODULE'),
-  ('setuptools._vendor.pyparsing.helpers',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\setuptools\\_vendor\\pyparsing\\helpers.py',
-   'PYMODULE'),
-  ('setuptools._vendor.importlib_resources._compat',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\setuptools\\_vendor\\importlib_resources\\_compat.py',
-   'PYMODULE'),
-  ('setuptools._vendor.packaging.__about__',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\setuptools\\_vendor\\packaging\\__about__.py',
-   'PYMODULE'),
-  ('setuptools._vendor.pyparsing.testing',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\setuptools\\_vendor\\pyparsing\\testing.py',
-   'PYMODULE'),
-  ('setuptools._vendor.ordered_set',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\setuptools\\_vendor\\ordered_set.py',
-   'PYMODULE'),
-  ('setuptools._vendor.importlib_metadata._compat',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_compat.py',
-   'PYMODULE'),
-  ('setuptools._vendor.pyparsing.common',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\setuptools\\_vendor\\pyparsing\\common.py',
-   'PYMODULE'),
-  ('setuptools._vendor.importlib_metadata._meta',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_meta.py',
-   'PYMODULE'),
-  ('setuptools._vendor.packaging',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\setuptools\\_vendor\\packaging\\__init__.py',
-   'PYMODULE'),
-  ('setuptools._vendor.importlib_resources.readers',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\setuptools\\_vendor\\importlib_resources\\readers.py',
-   'PYMODULE'),
-  ('setuptools._vendor.importlib_resources._itertools',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\setuptools\\_vendor\\importlib_resources\\_itertools.py',
-   'PYMODULE'),
-  ('setuptools._vendor.pyparsing.core',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\setuptools\\_vendor\\pyparsing\\core.py',
-   'PYMODULE'),
-  ('setuptools._vendor.more_itertools.recipes',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\setuptools\\_vendor\\more_itertools\\recipes.py',
-   'PYMODULE'),
-  ('setuptools._vendor.packaging.specifiers',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\setuptools\\_vendor\\packaging\\specifiers.py',
-   'PYMODULE'),
-  ('setuptools._vendor.packaging._structures',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\setuptools\\_vendor\\packaging\\_structures.py',
-   'PYMODULE'),
-  ('setuptools._vendor.pyparsing.results',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\setuptools\\_vendor\\pyparsing\\results.py',
-   'PYMODULE'),
-  ('setuptools._vendor.packaging.utils',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\setuptools\\_vendor\\packaging\\utils.py',
-   'PYMODULE'),
-  ('setuptools._vendor.jaraco.text',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\setuptools\\_vendor\\jaraco\\text\\__init__.py',
-   'PYMODULE'),
-  ('setuptools._vendor.importlib_metadata._itertools',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\setuptools\\_vendor\\importlib_metadata\\_itertools.py',
-   'PYMODULE'),
-  ('setuptools._vendor.more_itertools',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\setuptools\\_vendor\\more_itertools\\__init__.py',
-   'PYMODULE'),
-  ('setuptools.msvc',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\setuptools\\msvc.py',
-   'PYMODULE'),
-  ('distutils.msvc9compiler',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\distutils\\msvc9compiler.py',
-   'PYMODULE'),
-  ('distutils.ccompiler',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\distutils\\ccompiler.py',
-   'PYMODULE'),
-  ('distutils.command.build_ext',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\distutils\\command\\build_ext.py',
-   'PYMODULE'),
-  ('distutils._msvccompiler',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\distutils\\_msvccompiler.py',
-   'PYMODULE'),
-  ('setuptools.namespaces',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\setuptools\\namespaces.py',
-   'PYMODULE'),
-  ('setuptools.logging',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\setuptools\\logging.py',
-   'PYMODULE'),
-  ('setuptools.discovery',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\setuptools\\discovery.py',
-   'PYMODULE'),
-  ('setuptools.errors',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\setuptools\\errors.py',
-   'PYMODULE'),
-  ('setuptools.depends',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\setuptools\\depends.py',
-   'PYMODULE'),
-  ('setuptools._imp',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\setuptools\\_imp.py',
-   'PYMODULE'),
-  ('setuptools.py34compat',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\setuptools\\py34compat.py',
-   'PYMODULE'),
-  ('setuptools.dist',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\setuptools\\dist.py',
-   'PYMODULE'),
-  ('setuptools.installer',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\setuptools\\installer.py',
-   'PYMODULE'),
-  ('setuptools.config.pyprojecttoml',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\setuptools\\config\\pyprojecttoml.py',
-   'PYMODULE'),
-  ('setuptools.config._validate_pyproject',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\setuptools\\config\\_validate_pyproject\\__init__.py',
-   'PYMODULE'),
-  ('setuptools.config._validate_pyproject.fastjsonschema_validations',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\setuptools\\config\\_validate_pyproject\\fastjsonschema_validations.py',
-   'PYMODULE'),
-  ('setuptools.config._validate_pyproject.fastjsonschema_exceptions',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\setuptools\\config\\_validate_pyproject\\fastjsonschema_exceptions.py',
-   'PYMODULE'),
-  ('setuptools.config._validate_pyproject.extra_validations',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\setuptools\\config\\_validate_pyproject\\extra_validations.py',
-   'PYMODULE'),
-  ('setuptools.config._validate_pyproject.error_reporting',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\setuptools\\config\\_validate_pyproject\\error_reporting.py',
-   'PYMODULE'),
-  ('setuptools.config._validate_pyproject.formats',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\setuptools\\config\\_validate_pyproject\\formats.py',
-   'PYMODULE'),
-  ('cgi',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\cgi.py',
-   'PYMODULE'),
-  ('setuptools.config._apply_pyprojecttoml',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\setuptools\\config\\_apply_pyprojecttoml.py',
-   'PYMODULE'),
-  ('setuptools.config.expand',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\setuptools\\config\\expand.py',
-   'PYMODULE'),
-  ('setuptools.config.setupcfg',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\setuptools\\config\\setupcfg.py',
-   'PYMODULE'),
-  ('setuptools.config',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\setuptools\\config\\__init__.py',
-   'PYMODULE'),
-  ('distutils.cmd',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\distutils\\cmd.py',
-   'PYMODULE'),
-  ('setuptools._reqs',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\setuptools\\_reqs.py',
-   'PYMODULE'),
-  ('setuptools.windows_support',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\setuptools\\windows_support.py',
-   'PYMODULE'),
-  ('setuptools.version',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\setuptools\\version.py',
-   'PYMODULE'),
-  ('setuptools._deprecation_warning',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\setuptools\\_deprecation_warning.py',
-   'PYMODULE'),
-  ('_distutils_hack.override',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\_distutils_hack\\override.py',
-   'PYMODULE'),
-  ('_distutils_hack',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\_distutils_hack\\__init__.py',
-   'PYMODULE'),
-  ('setuptools._importlib',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\setuptools\\_importlib.py',
-   'PYMODULE'),
-  ('distutils.log',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\distutils\\log.py',
-   'PYMODULE'),
-  ('distutils',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\distutils\\__init__.py',
-   'PYMODULE'),
-  ('distutils.filelist',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\distutils\\filelist.py',
-   'PYMODULE'),
-  ('numpy.distutils.command.develop',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\numpy\\distutils\\command\\develop.py',
-   'PYMODULE'),
-  ('setuptools.command.develop',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\setuptools\\command\\develop.py',
-   'PYMODULE'),
-  ('numpy.distutils.command.install_clib',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\numpy\\distutils\\command\\install_clib.py',
-   'PYMODULE'),
-  ('numpy.distutils.command.bdist_rpm',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\numpy\\distutils\\command\\bdist_rpm.py',
-   'PYMODULE'),
-  ('distutils.command.bdist_rpm',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\distutils\\command\\bdist_rpm.py',
-   'PYMODULE'),
-  ('setuptools.command.bdist_rpm',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\setuptools\\command\\bdist_rpm.py',
-   'PYMODULE'),
-  ('numpy.distutils.command.install',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\numpy\\distutils\\command\\install.py',
-   'PYMODULE'),
-  ('setuptools.command.install',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\setuptools\\command\\install.py',
-   'PYMODULE'),
-  ('numpy.distutils.command.install_headers',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\numpy\\distutils\\command\\install_headers.py',
-   'PYMODULE'),
-  ('distutils.command.install_headers',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\distutils\\command\\install_headers.py',
-   'PYMODULE'),
-  ('numpy.distutils.command.install_data',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\numpy\\distutils\\command\\install_data.py',
-   'PYMODULE'),
-  ('distutils.command.install_data',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\distutils\\command\\install_data.py',
-   'PYMODULE'),
-  ('numpy.distutils.command.sdist',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\numpy\\distutils\\command\\sdist.py',
-   'PYMODULE'),
-  ('numpy.distutils.command.build_scripts',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\numpy\\distutils\\command\\build_scripts.py',
-   'PYMODULE'),
-  ('numpy.distutils.command.build_clib',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\numpy\\distutils\\command\\build_clib.py',
-   'PYMODULE'),
-  ('numpy.distutils.ccompiler_opt',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\numpy\\distutils\\ccompiler_opt.py',
-   'PYMODULE'),
-  ('distutils.command.build_clib',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\distutils\\command\\build_clib.py',
-   'PYMODULE'),
-  ('numpy.distutils.command.build_ext',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\numpy\\distutils\\command\\build_ext.py',
-   'PYMODULE'),
-  ('numpy.distutils.system_info',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\numpy\\distutils\\system_info.py',
-   'PYMODULE'),
-  ('numpy.f2py',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\numpy\\f2py\\__init__.py',
-   'PYMODULE'),
-  ('numpy.f2py.diagnose',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\numpy\\f2py\\diagnose.py',
-   'PYMODULE'),
-  ('numpy.f2py.f2py2e',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\numpy\\f2py\\f2py2e.py',
-   'PYMODULE'),
-  ('numpy.distutils.command.build_src',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\numpy\\distutils\\command\\build_src.py',
-   'PYMODULE'),
-  ('numpy.distutils.conv_template',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\numpy\\distutils\\conv_template.py',
-   'PYMODULE'),
-  ('numpy.distutils.from_template',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\numpy\\distutils\\from_template.py',
-   'PYMODULE'),
-  ('numpy.f2py.auxfuncs',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\numpy\\f2py\\auxfuncs.py',
-   'PYMODULE'),
-  ('numpy.f2py.f90mod_rules',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\numpy\\f2py\\f90mod_rules.py',
-   'PYMODULE'),
-  ('numpy.f2py.rules',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\numpy\\f2py\\rules.py',
-   'PYMODULE'),
-  ('numpy.f2py.use_rules',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\numpy\\f2py\\use_rules.py',
-   'PYMODULE'),
-  ('numpy.f2py.common_rules',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\numpy\\f2py\\common_rules.py',
-   'PYMODULE'),
-  ('numpy.f2py.func2subr',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\numpy\\f2py\\func2subr.py',
-   'PYMODULE'),
-  ('numpy.f2py.crackfortran',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\numpy\\f2py\\crackfortran.py',
-   'PYMODULE'),
-  ('fileinput',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\fileinput.py',
-   'PYMODULE'),
-  ('numpy.f2py.symbolic',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\numpy\\f2py\\symbolic.py',
-   'PYMODULE'),
-  ('numpy.f2py.cb_rules',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\numpy\\f2py\\cb_rules.py',
-   'PYMODULE'),
-  ('numpy.f2py.capi_maps',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\numpy\\f2py\\capi_maps.py',
-   'PYMODULE'),
-  ('numpy.f2py.cfuncs',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\numpy\\f2py\\cfuncs.py',
-   'PYMODULE'),
-  ('numpy.f2py.__version__',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\numpy\\f2py\\__version__.py',
-   'PYMODULE'),
-  ('numpy.distutils.command.build_py',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\numpy\\distutils\\command\\build_py.py',
-   'PYMODULE'),
-  ('distutils.command.build_py',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\distutils\\command\\build_py.py',
-   'PYMODULE'),
-  ('numpy.distutils.command.build',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\numpy\\distutils\\command\\build.py',
-   'PYMODULE'),
-  ('distutils.command.build',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\distutils\\command\\build.py',
-   'PYMODULE'),
-  ('numpy.distutils.command.config',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\numpy\\distutils\\command\\config.py',
-   'PYMODULE'),
-  ('numpy.distutils.command.autodist',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\numpy\\distutils\\command\\autodist.py',
-   'PYMODULE'),
-  ('numpy.distutils.mingw32ccompiler',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\numpy\\distutils\\mingw32ccompiler.py',
-   'PYMODULE'),
-  ('distutils.msvccompiler',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\distutils\\msvccompiler.py',
-   'PYMODULE'),
-  ('distutils.unixccompiler',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\distutils\\unixccompiler.py',
-   'PYMODULE'),
-  ('distutils.cygwinccompiler',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\distutils\\cygwinccompiler.py',
-   'PYMODULE'),
-  ('distutils.version',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\distutils\\version.py',
-   'PYMODULE'),
-  ('distutils.command.config',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\distutils\\command\\config.py',
-   'PYMODULE'),
-  ('distutils.core',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\distutils\\core.py',
-   'PYMODULE'),
-  ('distutils.config',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\distutils\\config.py',
-   'PYMODULE'),
-  ('distutils.dist',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\distutils\\dist.py',
-   'PYMODULE'),
-  ('distutils.versionpredicate',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\distutils\\versionpredicate.py',
-   'PYMODULE'),
-  ('numpy.distutils.core',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\numpy\\distutils\\core.py',
-   'PYMODULE'),
-  ('numpy.distutils.numpy_distribution',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\numpy\\distutils\\numpy_distribution.py',
-   'PYMODULE'),
-  ('numpy.distutils.extension',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\numpy\\distutils\\extension.py',
-   'PYMODULE'),
-  ('numpy.distutils.fcompiler.environment',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\numpy\\distutils\\fcompiler\\environment.py',
-   'PYMODULE'),
-  ('numpy.distutils.exec_command',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\numpy\\distutils\\exec_command.py',
-   'PYMODULE'),
-  ('numpy.distutils.misc_util',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\numpy\\distutils\\misc_util.py',
-   'PYMODULE'),
-  ('curses',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\curses\\__init__.py',
-   'PYMODULE'),
-  ('curses.has_key',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\curses\\has_key.py',
-   'PYMODULE'),
-  ('distutils.util',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\distutils\\util.py',
-   'PYMODULE'),
-  ('lib2to3.refactor',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\lib2to3\\refactor.py',
-   'PYMODULE'),
-  ('lib2to3.btm_matcher',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\lib2to3\\btm_matcher.py',
-   'PYMODULE'),
-  ('lib2to3.btm_utils',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\lib2to3\\btm_utils.py',
-   'PYMODULE'),
-  ('lib2to3.pgen2.grammar',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\lib2to3\\pgen2\\grammar.py',
-   'PYMODULE'),
-  ('lib2to3.pygram',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\lib2to3\\pygram.py',
-   'PYMODULE'),
-  ('lib2to3.pytree',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\lib2to3\\pytree.py',
-   'PYMODULE'),
-  ('lib2to3',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\lib2to3\\__init__.py',
-   'PYMODULE'),
-  ('lib2to3.patcomp',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\lib2to3\\patcomp.py',
-   'PYMODULE'),
-  ('lib2to3.pgen2.parse',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\lib2to3\\pgen2\\parse.py',
-   'PYMODULE'),
-  ('lib2to3.pgen2.literals',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\lib2to3\\pgen2\\literals.py',
-   'PYMODULE'),
-  ('lib2to3.fixer_util',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\lib2to3\\fixer_util.py',
-   'PYMODULE'),
-  ('lib2to3.pgen2.token',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\lib2to3\\pgen2\\token.py',
-   'PYMODULE'),
-  ('lib2to3.pgen2.tokenize',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\lib2to3\\pgen2\\tokenize.py',
-   'PYMODULE'),
-  ('lib2to3.pgen2.driver',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\lib2to3\\pgen2\\driver.py',
-   'PYMODULE'),
-  ('lib2to3.pgen2.pgen',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\lib2to3\\pgen2\\pgen.py',
-   'PYMODULE'),
-  ('lib2to3.pgen2',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\lib2to3\\pgen2\\__init__.py',
-   'PYMODULE'),
-  ('distutils.errors',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\distutils\\errors.py',
-   'PYMODULE'),
-  ('distutils.fancy_getopt',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\distutils\\fancy_getopt.py',
-   'PYMODULE'),
-  ('distutils.sysconfig',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\distutils\\sysconfig.py',
-   'PYMODULE'),
-  ('numpy.distutils.__config__',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\numpy\\distutils\\__config__.py',
-   'PYMODULE'),
-  ('numpy.distutils.npy_pkg_config',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\numpy\\distutils\\npy_pkg_config.py',
-   'PYMODULE'),
-  ('numpy.distutils.unixccompiler',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\numpy\\distutils\\unixccompiler.py',
-   'PYMODULE'),
-  ('numpy.distutils.ccompiler',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\numpy\\distutils\\ccompiler.py',
-   'PYMODULE'),
-  ('numpy.distutils._shell_utils',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\numpy\\distutils\\_shell_utils.py',
-   'PYMODULE'),
-  ('pipes',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\pipes.py',
-   'PYMODULE'),
-  ('numpy.distutils.lib2def',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\numpy\\distutils\\lib2def.py',
-   'PYMODULE'),
-  ('numpy.distutils.log',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\numpy\\distutils\\log.py',
-   'PYMODULE'),
   ('numpy.testing',
    'E:\\Personal\\Youtube '
    'downloader\\env\\lib\\site-packages\\numpy\\testing\\__init__.py',
@@ -2106,6 +966,14 @@
   ('numpy.testing._private.nosetester',
    'E:\\Personal\\Youtube '
    'downloader\\env\\lib\\site-packages\\numpy\\testing\\_private\\nosetester.py',
+   'PYMODULE'),
+  ('doctest',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\doctest.py',
+   'PYMODULE'),
+  ('difflib',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\difflib.py',
    'PYMODULE'),
   ('numpy.testing._private.noseclasses',
    'E:\\Personal\\Youtube '
@@ -2198,6 +1066,190 @@
   ('numpy.core._string_helpers',
    'E:\\Personal\\Youtube '
    'downloader\\env\\lib\\site-packages\\numpy\\core\\_string_helpers.py',
+   'PYMODULE'),
+  ('unittest.case',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\unittest\\case.py',
+   'PYMODULE'),
+  ('unittest._log',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\unittest\\_log.py',
+   'PYMODULE'),
+  ('unittest.util',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\unittest\\util.py',
+   'PYMODULE'),
+  ('unittest.result',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\unittest\\result.py',
+   'PYMODULE'),
+  ('unittest',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\unittest\\__init__.py',
+   'PYMODULE'),
+  ('unittest.async_case',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\unittest\\async_case.py',
+   'PYMODULE'),
+  ('asyncio',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\__init__.py',
+   'PYMODULE'),
+  ('asyncio.unix_events',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\unix_events.py',
+   'PYMODULE'),
+  ('asyncio.log',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\log.py',
+   'PYMODULE'),
+  ('asyncio.windows_events',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\windows_events.py',
+   'PYMODULE'),
+  ('asyncio.windows_utils',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\windows_utils.py',
+   'PYMODULE'),
+  ('asyncio.selector_events',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\selector_events.py',
+   'PYMODULE'),
+  ('asyncio.proactor_events',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\proactor_events.py',
+   'PYMODULE'),
+  ('asyncio.base_subprocess',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\base_subprocess.py',
+   'PYMODULE'),
+  ('asyncio.threads',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\threads.py',
+   'PYMODULE'),
+  ('asyncio.subprocess',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\subprocess.py',
+   'PYMODULE'),
+  ('asyncio.streams',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\streams.py',
+   'PYMODULE'),
+  ('asyncio.queues',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\queues.py',
+   'PYMODULE'),
+  ('asyncio.runners',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\runners.py',
+   'PYMODULE'),
+  ('asyncio.base_events',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\base_events.py',
+   'PYMODULE'),
+  ('concurrent.futures',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\concurrent\\futures\\__init__.py',
+   'PYMODULE'),
+  ('concurrent.futures.thread',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\concurrent\\futures\\thread.py',
+   'PYMODULE'),
+  ('concurrent.futures.process',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\concurrent\\futures\\process.py',
+   'PYMODULE'),
+  ('concurrent.futures._base',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\concurrent\\futures\\_base.py',
+   'PYMODULE'),
+  ('concurrent',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\concurrent\\__init__.py',
+   'PYMODULE'),
+  ('asyncio.trsock',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\trsock.py',
+   'PYMODULE'),
+  ('asyncio.staggered',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\staggered.py',
+   'PYMODULE'),
+  ('asyncio.tasks',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\tasks.py',
+   'PYMODULE'),
+  ('asyncio.locks',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\locks.py',
+   'PYMODULE'),
+  ('asyncio.base_tasks',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\base_tasks.py',
+   'PYMODULE'),
+  ('asyncio.mixins',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\mixins.py',
+   'PYMODULE'),
+  ('asyncio.sslproto',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\sslproto.py',
+   'PYMODULE'),
+  ('asyncio.transports',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\transports.py',
+   'PYMODULE'),
+  ('asyncio.protocols',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\protocols.py',
+   'PYMODULE'),
+  ('asyncio.futures',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\futures.py',
+   'PYMODULE'),
+  ('asyncio.exceptions',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\exceptions.py',
+   'PYMODULE'),
+  ('asyncio.events',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\events.py',
+   'PYMODULE'),
+  ('asyncio.coroutines',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\coroutines.py',
+   'PYMODULE'),
+  ('asyncio.base_futures',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\base_futures.py',
+   'PYMODULE'),
+  ('asyncio.format_helpers',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\format_helpers.py',
+   'PYMODULE'),
+  ('asyncio.constants',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\asyncio\\constants.py',
+   'PYMODULE'),
+  ('unittest.signals',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\unittest\\signals.py',
+   'PYMODULE'),
+  ('unittest.main',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\unittest\\main.py',
+   'PYMODULE'),
+  ('unittest.runner',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\unittest\\runner.py',
+   'PYMODULE'),
+  ('unittest.loader',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\unittest\\loader.py',
+   'PYMODULE'),
+  ('unittest.suite',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\unittest\\suite.py',
    'PYMODULE'),
   ('numpy.matrixlib',
    'E:\\Personal\\Youtube '
@@ -2411,10 +1463,6 @@
    'E:\\Personal\\Youtube '
    'downloader\\env\\lib\\site-packages\\numpy\\core\\__init__.py',
    'PYMODULE'),
-  ('numpy.core._dtype_ctypes',
-   'E:\\Personal\\Youtube '
-   'downloader\\env\\lib\\site-packages\\numpy\\core\\_dtype_ctypes.py',
-   'PYMODULE'),
   ('numpy.core._add_newdocs_scalars',
    'E:\\Personal\\Youtube '
    'downloader\\env\\lib\\site-packages\\numpy\\core\\_add_newdocs_scalars.py',
@@ -2607,6 +1655,10 @@
    'E:\\Personal\\Youtube '
    'downloader\\env\\lib\\site-packages\\tqdm\\notebook.py',
    'PYMODULE'),
+  ('cgi',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\cgi.py',
+   'PYMODULE'),
   ('tqdm.utils',
    'E:\\Personal\\Youtube downloader\\env\\lib\\site-packages\\tqdm\\utils.py',
    'PYMODULE'),
@@ -2794,6 +1846,409 @@
    'E:\\Personal\\Youtube '
    'downloader\\env\\lib\\site-packages\\imageio\\__init__.py',
    'PYMODULE'),
+  ('imageio.plugins.tifffile',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\imageio\\plugins\\tifffile.py',
+   'PYMODULE'),
+  ('imageio.plugins.swf',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\imageio\\plugins\\swf.py',
+   'PYMODULE'),
+  ('imageio.plugins.spe',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\imageio\\plugins\\spe.py',
+   'PYMODULE'),
+  ('imageio.plugins.simpleitk',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\imageio\\plugins\\simpleitk.py',
+   'PYMODULE'),
+  ('imageio.plugins.pyav',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\imageio\\plugins\\pyav.py',
+   'PYMODULE'),
+  ('imageio.plugins.pillowmulti',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\imageio\\plugins\\pillowmulti.py',
+   'PYMODULE'),
+  ('PIL.GifImagePlugin',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\PIL\\GifImagePlugin.py',
+   'PYMODULE'),
+  ('PIL._binary',
+   'E:\\Personal\\Youtube downloader\\env\\lib\\site-packages\\PIL\\_binary.py',
+   'PYMODULE'),
+  ('PIL.ImageSequence',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\PIL\\ImageSequence.py',
+   'PYMODULE'),
+  ('PIL.ImagePalette',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\PIL\\ImagePalette.py',
+   'PYMODULE'),
+  ('PIL._deprecate',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\PIL\\_deprecate.py',
+   'PYMODULE'),
+  ('PIL.PaletteFile',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\PIL\\PaletteFile.py',
+   'PYMODULE'),
+  ('PIL.ImageColor',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\PIL\\ImageColor.py',
+   'PYMODULE'),
+  ('colorsys',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\colorsys.py',
+   'PYMODULE'),
+  ('PIL.GimpPaletteFile',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\PIL\\GimpPaletteFile.py',
+   'PYMODULE'),
+  ('PIL.GimpGradientFile',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\PIL\\GimpGradientFile.py',
+   'PYMODULE'),
+  ('PIL.ImageFile',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\PIL\\ImageFile.py',
+   'PYMODULE'),
+  ('PIL._util',
+   'E:\\Personal\\Youtube downloader\\env\\lib\\site-packages\\PIL\\_util.py',
+   'PYMODULE'),
+  ('PIL.ImageChops',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\PIL\\ImageChops.py',
+   'PYMODULE'),
+  ('PIL.Image',
+   'E:\\Personal\\Youtube downloader\\env\\lib\\site-packages\\PIL\\Image.py',
+   'PYMODULE'),
+  ('PIL.XpmImagePlugin',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\PIL\\XpmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XbmImagePlugin',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\PIL\\XbmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.XVThumbImagePlugin',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\PIL\\XVThumbImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.WmfImagePlugin',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\PIL\\WmfImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.WebPImagePlugin',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\PIL\\WebPImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TgaImagePlugin',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\PIL\\TgaImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SunImagePlugin',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\PIL\\SunImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.SpiderImagePlugin',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\PIL\\SpiderImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImageTk',
+   'E:\\Personal\\Youtube downloader\\env\\lib\\site-packages\\PIL\\ImageTk.py',
+   'PYMODULE'),
+  ('PIL.SgiImagePlugin',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\PIL\\SgiImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PsdImagePlugin',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\PIL\\PsdImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PixarImagePlugin',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\PIL\\PixarImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PdfImagePlugin',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\PIL\\PdfImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.features',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\PIL\\features.py',
+   'PYMODULE'),
+  ('PIL.PdfParser',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\PIL\\PdfParser.py',
+   'PYMODULE'),
+  ('PIL.PcxImagePlugin',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\PIL\\PcxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PcdImagePlugin',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\PIL\\PcdImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PalmImagePlugin',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\PIL\\PalmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MspImagePlugin',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\PIL\\MspImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MpoImagePlugin',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\PIL\\MpoImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MpegImagePlugin',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\PIL\\MpegImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.MicImagePlugin',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\PIL\\MicImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.McIdasImagePlugin',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\PIL\\McIdasImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Jpeg2KImagePlugin',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\PIL\\Jpeg2KImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IptcImagePlugin',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\PIL\\IptcImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImtImagePlugin',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\PIL\\ImtImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImImagePlugin',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\PIL\\ImImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IcoImagePlugin',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\PIL\\IcoImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.IcnsImagePlugin',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\PIL\\IcnsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.Hdf5StubImagePlugin',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\PIL\\Hdf5StubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GribStubImagePlugin',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\PIL\\GribStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.GbrImagePlugin',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\PIL\\GbrImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FtexImagePlugin',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\PIL\\FtexImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FpxImagePlugin',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\PIL\\FpxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FliImagePlugin',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\PIL\\FliImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FitsStubImagePlugin',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\PIL\\FitsStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.FitsImagePlugin',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\PIL\\FitsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.EpsImagePlugin',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\PIL\\EpsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.DdsImagePlugin',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\PIL\\DdsImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.DcxImagePlugin',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\PIL\\DcxImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.CurImagePlugin',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\PIL\\CurImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BufrStubImagePlugin',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\PIL\\BufrStubImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.BlpImagePlugin',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\PIL\\BlpImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TiffImagePlugin',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\PIL\\TiffImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.ImageOps',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\PIL\\ImageOps.py',
+   'PYMODULE'),
+  ('PIL.ImageShow',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\PIL\\ImageShow.py',
+   'PYMODULE'),
+  ('PIL.ImageQt',
+   'E:\\Personal\\Youtube downloader\\env\\lib\\site-packages\\PIL\\ImageQt.py',
+   'PYMODULE'),
+  ('PIL.ImageFilter',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\PIL\\ImageFilter.py',
+   'PYMODULE'),
+  ('PIL.ImageCms',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\PIL\\ImageCms.py',
+   'PYMODULE'),
+  ('PIL.ImageWin',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\PIL\\ImageWin.py',
+   'PYMODULE'),
+  ('PIL.PyAccess',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\PIL\\PyAccess.py',
+   'PYMODULE'),
+  ('PIL.PngImagePlugin',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\PIL\\PngImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.PpmImagePlugin',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\PIL\\PpmImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.JpegImagePlugin',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\PIL\\JpegImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.JpegPresets',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\PIL\\JpegPresets.py',
+   'PYMODULE'),
+  ('PIL.BmpImagePlugin',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\PIL\\BmpImagePlugin.py',
+   'PYMODULE'),
+  ('PIL.TiffTags',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\PIL\\TiffTags.py',
+   'PYMODULE'),
+  ('PIL.ImageMode',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\PIL\\ImageMode.py',
+   'PYMODULE'),
+  ('PIL',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\PIL\\__init__.py',
+   'PYMODULE'),
+  ('PIL.ExifTags',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\PIL\\ExifTags.py',
+   'PYMODULE'),
+  ('PIL.ImageGrab',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\PIL\\ImageGrab.py',
+   'PYMODULE'),
+  ('PIL._version',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\PIL\\_version.py',
+   'PYMODULE'),
+  ('imageio.plugins.pillow_legacy',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\imageio\\plugins\\pillow_legacy.py',
+   'PYMODULE'),
+  ('imageio.plugins.pillow_info',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\imageio\\plugins\\pillow_info.py',
+   'PYMODULE'),
+  ('imageio.plugins.pillow',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\imageio\\plugins\\pillow.py',
+   'PYMODULE'),
+  ('imageio.plugins.opencv',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\imageio\\plugins\\opencv.py',
+   'PYMODULE'),
+  ('imageio.plugins.npz',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\imageio\\plugins\\npz.py',
+   'PYMODULE'),
+  ('imageio.plugins.lytro',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\imageio\\plugins\\lytro.py',
+   'PYMODULE'),
+  ('imageio.plugins.grab',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\imageio\\plugins\\grab.py',
+   'PYMODULE'),
+  ('imageio.plugins.gdal',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\imageio\\plugins\\gdal.py',
+   'PYMODULE'),
+  ('imageio.plugins.freeimagemulti',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\imageio\\plugins\\freeimagemulti.py',
+   'PYMODULE'),
+  ('imageio.plugins.freeimage',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\imageio\\plugins\\freeimage.py',
+   'PYMODULE'),
+  ('imageio.plugins.fits',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\imageio\\plugins\\fits.py',
+   'PYMODULE'),
+  ('imageio.plugins.feisem',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\imageio\\plugins\\feisem.py',
+   'PYMODULE'),
+  ('imageio.plugins.example',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\imageio\\plugins\\example.py',
+   'PYMODULE'),
+  ('imageio.plugins.dicom',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\imageio\\plugins\\dicom.py',
+   'PYMODULE'),
+  ('imageio.plugins.bsdf',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\imageio\\plugins\\bsdf.py',
+   'PYMODULE'),
+  ('imageio.plugins._tifffile',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\imageio\\plugins\\_tifffile.py',
+   'PYMODULE'),
+  ('imageio.plugins._swf',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\imageio\\plugins\\_swf.py',
+   'PYMODULE'),
+  ('imageio.plugins._freeimage',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\imageio\\plugins\\_freeimage.py',
+   'PYMODULE'),
+  ('imageio.plugins._dicom',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\imageio\\plugins\\_dicom.py',
+   'PYMODULE'),
+  ('imageio.plugins._bsdf',
+   'E:\\Personal\\Youtube '
+   'downloader\\env\\lib\\site-packages\\imageio\\plugins\\_bsdf.py',
+   'PYMODULE'),
   ('imageio.v3',
    'E:\\Personal\\Youtube downloader\\env\\lib\\site-packages\\imageio\\v3.py',
    'PYMODULE'),
@@ -2863,6 +2318,10 @@
   ('shutil',
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\shutil.py',
+   'PYMODULE'),
+  ('tarfile',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.10_3.10.2288.0_x64__qbz5n2kfra8p0\\lib\\tarfile.py',
    'PYMODULE'),
   ('msilib.schema',
    'C:\\Program '

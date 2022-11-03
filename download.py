@@ -45,7 +45,7 @@ def download_mp4():
                 user_path = path_label.cget("text")
 
                 #check if path has been selected
-                if user_path != "<download path>" and user_path != "":
+                if user_path != "Path: " and user_path != "":
 
                     #download video
                     
@@ -83,13 +83,14 @@ def callback(url):
 
 
 screen = Tk()
-title = screen.title("klgrm.xyz - Youtube Downloader")
+screen.iconbitmap(get_path("yt.ico"))
+title = screen.title("Youtube Downloader")
 canvas = Canvas(screen, width=500, height=600, background="#262626")
 
 
 #logo, and resize using subsample
-logo = PhotoImage(file=get_path("tommy4.png")).subsample(3, 3)
-canvas.create_image(250, 80, image=logo)
+logo = PhotoImage(file=get_path("yt.png")).subsample(3, 3)
+canvas.create_image(250, 130, image=logo)
 
 
 #Enter video link
@@ -102,7 +103,7 @@ canvas.create_window(250, 300, window=link_field)
 
 
 #Button to select path
-path_label = Label(screen, text="<download path>", bg="#262626", fg="white")
+path_label = Label(screen, text="Path: ", bg="#262626", fg="white")
 path_label.pack()
 path_label.config(font=('Consolas', 15),)
 path_label.place(relx=0.5, rely=0.58, anchor=CENTER)
